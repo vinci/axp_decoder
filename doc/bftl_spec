@@ -1,0 +1,14 @@
+contents
+  -About BFDL
+  -Keywords
+  -Operators
+  -Block
+  -Clause
+
+-About BFDL
+  BFDL be use to describe a binary file structure and what bytes sequence
+  stands for.
+-Keywords
+  keywords and all token of BFDL is case-sensitive.
+  keywords list:
+  symbols vars length is and or not structure FIRST after sign control
